@@ -3,3 +3,9 @@ Parametric adapter model for replacing Kohler soap dispenser container with wate
 
 Diagram below maps each spreadsheet to the part of the model it controls.
 ![soap-dispenser-bottle-adapter-spreadsheet-diagream](soap-dispenser-bottle-adapter-spreadsheet-diagram.jpg)
+ 
+
+## Model
+
+[dispenser-bottle-adapter.stl](dispenser-bottle-adapter.stl)
+
